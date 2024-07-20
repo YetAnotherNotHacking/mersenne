@@ -36,7 +36,6 @@ int num_threads;
 unsigned long long primes_checked = 0;
 time_t start_time;
 
-// Function prototype
 void print_status(void);
 
 void handle_sigint(int sig) {
@@ -138,7 +137,7 @@ void print_status(void) {
 
 int main(int argc, char* argv[]) {
     num_threads = 1;
-    unsigned long long initial_n = 3;  // Default starting point (2^3 - 1 = 7 is a Mersenne prime)
+    unsigned long long initial_n = 3; 
 
     int opt;
     while ((opt = getopt(argc, argv, "t:i:")) != -1) {
