@@ -22,3 +22,7 @@ I say cores a lot here, but I mean hyperthreads (linux sees them as cores)
 the super cores are working as so: 16 cores turns into one super core, do the math and there are 24 super cores, and the program is just mersenne adapted ot be able to group cores together and not have them overwhelm the program
 
 the more cores there are, the more work it is just to use the cores effeciently, but this is able to run this on special cores that do not overwhelm, and are made to work together in a more effecient way.
+
+# Seive of Eratoshtenes
+https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
+don't got no reason to yap about it here
