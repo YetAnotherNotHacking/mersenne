@@ -1,11 +1,21 @@
-mersenne cache - mersenne with cache to avoid filling memory
-This is the best script in this repo for launching it and leaving
+# Mersenne Cache: 
+Mersenne with cache to avoid filling memory, which makes the gnu arithmetic library even more useful.
+This is the best script in this repo for launching it and leaving for a while, unless of course you 
+are on datacenter hardware, then use the intel script.
 
-mersenne - standard mersenne prime search, without cache to disk
+# Mersenne:
+standard mersenne prime search, without cache to disk. Works with large amounts of memory on machines
+that have under 32 threads (16 cores if hyperthreading is enabled)
 
-prime - slow standard expanding prime search with support for setting and initial length of prime to start at or something like that, it is old script
+# Prime:
+slow standard expanding prime search with support for setting and initial length of prime to start at 
+or something like that, it is old script, and not optimized in any way shape or form.
 
-mersenne-intel - a script for the intel cloud developer platform, it is able to find very very large primes on this cpu, the high seirra that they allow people to test on in the cloud for free. since there is such a large number of cores, I made my own "super cores"
+
+
+# Mersenne-intel - a script for the intel cloud developer platform, it is able to find very very large 
+primes on this cpu, the high seirra that they allow people to test on in the cloud for free. since there 
+is such a large number of cores, I made my own "super cores"
 
 I say cores a lot here, but I mean hyperthreads (linux sees them as cores)
 
