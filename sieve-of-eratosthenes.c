@@ -1,5 +1,6 @@
 //  Sieve of Eratosthenes, but threaded :upsidedown_smiley:
 // https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
+// Some help from claude.ai to get threading working!
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
