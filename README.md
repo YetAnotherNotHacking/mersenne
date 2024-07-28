@@ -15,7 +15,8 @@ or something like that, it is old script, and not optimized in any way shape or 
 
 
 
-# Mersenne-intel - a script for the intel cloud developer platform, it is able to find very very large 
+# Mersenne-intel:
+a script for the intel cloud developer platform, it is able to find very very large 
 primes on this cpu, the high seirra that they allow people to test on in the cloud for free. since there 
 is such a large number of cores, I made my own "super cores"
 
