@@ -1,5 +1,3 @@
-notice: some of this code was assited with claude when too many errors happened. Used claude 3.5 sonnet.
-
 # Mersenne Cache: 
 Mersenne with cache to avoid filling memory, which makes the gnu arithmetic library even more useful.
 This is the best script in this repo for launching it and leaving for a while, unless of course you 
