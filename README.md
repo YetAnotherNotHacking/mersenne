@@ -26,4 +26,20 @@ the more cores there are, the more work it is just to use the cores effeciently,
 
 # Seive of Eratoshtenes
 https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
-don't got no reason to yap about it here
+don't got no reason to yap about it here.
+
+# Seive of Atkins
+https://en.wikipedia.org/wiki/Sieve_of_Atkin
+no yap.
+
+# Seive of Pritchard
+https://en.wikipedia.org/wiki/Sieve_of_Pritchard
+no yap again.
+
+# Seive of Sundaram
+https://en.wikipedia.org/wiki/Sieve_of_Sundaram
+no yap.
+
+# Wheel factorization Seive
+https://en.wikipedia.org/wiki/Wheel_factorization
+It is wheely cool.
